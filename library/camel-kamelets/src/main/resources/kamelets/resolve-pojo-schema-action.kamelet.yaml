@@ -72,4 +72,4 @@ spec:
       uri: "kamelet:source"
       steps:
         - process:
-            ref: "{{schemaResolver}}"
+            ref: "schemaResolver"
